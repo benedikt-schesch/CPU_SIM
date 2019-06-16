@@ -8,7 +8,7 @@ I will maybe extend it to 32 bits if I find it necessary.
 
 It's a work in progress.
 
-Why is it coded in JAVA ? Because it's the language which I understand the best and I enjoy it so I just used Java..
+Why is it coded in JAVA ? Because it's the language which I understand the best and I enjoy it so I just used Java.
 Maybe I will switch to C++ at some point.
 
 At the end of almost each important file, there is a side note about current research in Computer Architecture.
